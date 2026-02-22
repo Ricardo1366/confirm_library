@@ -2,6 +2,10 @@
 
 Pequeña utilidad para comprobar si una librería está instalada e intentar instalarla automáticamente.
 
+## Instalación desde GitHub
+
+pip install git+https://github.com/Ricardo11366/confirm_library.git
+
 ## Uso
 
 ```python
